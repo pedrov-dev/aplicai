@@ -1,0 +1,21 @@
+# Job Components
+
+This folder will contain React components related to job management for the user.
+
+## Suggested Components
+
+- **JobList.tsx**: List of all jobs for the current user.
+- **JobForm.tsx**: Form for creating or editing a job entry.
+- **JobView.tsx**: View details of a single job.
+- **JobCard.tsx**: Card component for displaying job summary.
+
+## Description
+
+- Use Tailwind CSS for styling.
+- Integrate with backend API for CRUD operations on jobs.
+- Allow users to add, edit, view, and delete job postings.
+
+---
+
+**Next step:**  
+Create the first component (e.g., `JobList.tsx`) or let me know which file/component you want to scaffold next!

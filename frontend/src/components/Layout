@@ -1,0 +1,22 @@
+# Layout Components
+
+This folder will contain shared layout components for your React app.
+
+## Suggested Components
+
+- **AppLayout.tsx**: Main layout wrapper (header, sidebar, footer, etc.).
+- **Header.tsx**: Top navigation bar.
+- **Sidebar.tsx**: Optional sidebar for navigation.
+- **Footer.tsx**: Footer component.
+- **PageContainer.tsx**: Wrapper for consistent page padding and alignment.
+
+## Description
+
+- Use Tailwind CSS for styling.
+- Keep layout components reusable and composable.
+- Provide a consistent look and feel across all pages.
+
+---
+
+**Next step:**  
+Create the first layout component (e.g., `AppLayout.tsx`) or let me know which file/component you want to scaffold next!

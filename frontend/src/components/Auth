@@ -1,0 +1,24 @@
+# Auth Component
+
+This folder will contain authentication-related React components for your application.  
+These components handle user login, registration, logout, and (optionally) password reset and email verification.
+
+## Suggested Components
+
+- **LoginForm.jsx/tsx**: Form for user login.
+- **RegisterForm.jsx/tsx**: Form for user registration.
+- **LogoutButton.jsx/tsx**: Button to log out the user.
+- **AuthProvider.jsx/tsx**: Context/provider for authentication state and logic.
+- **ProtectedRoute.jsx/tsx**: Wrapper to protect routes that require authentication.
+
+## Description
+
+- Integrate with Supabase Auth or Firebase Auth for authentication.
+- Use Tailwind CSS for styling.
+- Handle authentication state (logged in/out), errors, and loading states.
+- Provide hooks or context for accessing the current user throughout the app.
+
+---
+
+**Next step:**  
+Create the first component (e.g., `LoginForm.tsx`) or let me know which file/component you want to scaffold next!

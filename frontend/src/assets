@@ -1,0 +1,11 @@
+# Assets
+
+This folder is for static assets such as images, logos, icons, and fonts used in your React frontend.
+
+- Place images (e.g., logo.png), SVGs, and other static files here.
+- You can import these assets in your components as needed.
+
+Example usage in a component:
+```tsx
+import logo from "../assets/logo.png";
+```

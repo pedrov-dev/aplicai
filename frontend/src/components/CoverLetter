@@ -1,0 +1,23 @@
+# CoverLetter Components
+
+This folder will contain React components related to cover letter creation, editing, viewing, and exporting.
+
+## Suggested Components
+
+- **CoverLetterEditor.tsx**: Rich text or markdown editor for composing cover letters.
+- **CoverLetterList.tsx**: List of all cover letters for the current user.
+- **CoverLetterView.tsx**: View a single cover letter.
+- **CoverLetterExportButton.tsx**: Button to export/download a cover letter as PDF.
+- **CoverLetterForm.tsx**: Form for creating or updating a cover letter.
+
+## Description
+
+- Use Tailwind CSS for styling.
+- Integrate with backend API for CRUD operations.
+- Optionally, integrate with OpenAI API for AI-generated drafts.
+- Provide user-friendly UI for editing and exporting cover letters.
+
+---
+
+**Next step:**  
+Create the first component (e.g., `CoverLetterEditor.tsx`) or let me know which file/component you want to scaffold next!

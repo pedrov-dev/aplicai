@@ -1,0 +1,17 @@
+# Backend dependencies for CoverLetterGPT FastAPI app
+
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+passlib[bcrypt]
+openai
+weasyprint
+pydantic
+# Add any other dependencies as needed, e.g.:
+stripe
+
+# For development and testing
+pytest
+httpx
